@@ -12,7 +12,7 @@
 
 **Kaggle Competition:** [5-Day AI Agents Intensive Capstone 2025](https://www.kaggle.com/competitions/agents-intensive-capstone-project)  
 **Track:** Concierge Agents  
-**Submission Status:** ✅ Ready for submission  
+**Status:** ✅ Ready for deployement
 
 ---
 
@@ -726,7 +726,7 @@ black *.py examples/*.py tests/*.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-MIT License © 2025 Your Name
+MIT License © 2025 Elham1x0
 
 ---
 
@@ -768,9 +768,9 @@ MIT License © 2025 Your Name
 ### Contact
 
 - **GitHub Issues:** [Report bugs here](../../issues)
-- **Kaggle Profile:** [Your Kaggle Profile]
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Kaggle Profile:** [https://www.kaggle.com/elham1x0]
+- **Email:** ilhami.hanafiah@example.com
+- **LinkedIn:** [https://www.linkedin.com/in/ilhamihanafiah]
 
 ---
 
@@ -854,4 +854,3 @@ If you find this project useful, please:
 
 **Last Updated:** November 15, 2025  
 **Version:** 1.0 (Production Ready)  
-**Status:** ✅ Ready for Kaggle Submission
