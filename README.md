@@ -793,12 +793,12 @@ If you find this project useful, please:
 
 ## 🎉 Quick Links
 
-- 📖 [Full Documentation](./docs)
-- 🚀 [Quick Start Guide](./docs/SETUP_GUIDE.md)
-- 🏗️ [Architecture Details](./docs/ARCHITECTURE.md)
-- 📋 [Kaggle Submission](./docs/KAGGLE_SUBMISSION.md)
-- 🧪 [Test Suite](./tests)
-- 📚 [Examples](./examples)
+- 📖 [Full Documentation](#top)
+- 🚀 [Quick Start Guide](SETUP_GUIDE.md)
+- 🏗️ [Architecture Details](#key-features)
+- 📋 [Kaggle Submission](KAGGLE_SUBMISSION.md)
+- 🧪 [Test Suite](Tests)
+- 📚 [Examples](Examples)
 
 ---
 
