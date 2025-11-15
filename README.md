@@ -592,46 +592,6 @@ def detect_language(text: str) -> str:
 def format_agent_output(output: Dict[str, Any]) -> str:
     """Format results for terminal display with emojis."""
 ```
-
----
-
-## 🎯 Kaggle Requirements
-
-This project successfully demonstrates all **required course concepts**:
-
-### ✅ Multi-Agent System (Required)
-- 5 specialized agents in sequential pipeline
-- SequentialAgent orchestration
-- Independent agent evaluation
-
-### ✅ Tools (Required)
-- Language detection tool
-- JSON parsing utilities
-- Action extraction functions
-- Output formatting tools
-
-### ✅ Sessions & Memory (Required)
-- InMemorySessionService implementation
-- InMemoryMemoryService usage
-- Session-scoped state management
-
-### ✅ Context Engineering (Required)
-- Structured data passing via output_key
-- Rich inter-agent context sharing
-- Dynamic prompt injection
-
-### ✅ Agent Evaluation (Required)
-- Test suite with 10 messages
-- Evaluation metrics framework
-- Performance benchmarking
-
-### 🎁 Bonus: Gemini Integration
-- Uses Gemini 2.0 Flash model
-- Structured outputs support
-- +5 bonus points
-
----
-
 ## 📈 Performance Benchmarks
 
 ### Message Processing Examples
@@ -769,7 +729,7 @@ MIT License © 2025 Elham1x0
 
 - **GitHub Issues:** [Report bugs here](../../issues)
 - **Kaggle Profile:** [https://www.kaggle.com/elham1x0]
-- **Email:** ilhami.hanafiah@example.com
+- **Email:** [ilhami.hanafiah@example.com]
 - **LinkedIn:** [https://www.linkedin.com/in/ilhamihanafiah]
 
 ---
